@@ -22,3 +22,4 @@ make:
 
 .build:
 	dpkg -b build/me.kevinrpb.ktheme
+	mv build/me.kevinrpb.ktheme.deb ./dist/me.kevinrpb.ktheme.deb
