@@ -1,5 +1,5 @@
 # ktheme
-iOS theme compatible with Anemone
+iOS theme compatible with Anemone. Download from my repo: [cydia.kevinrpb.me](https://cydia.kevinrpb.me)
 
 # Requests / Bugs
 Just use Github Issues tracker.
