@@ -14,8 +14,8 @@ make:
 	cp src/control build/me.kevinrpb.ktheme/DEBIAN/control
 
 	# Icons
-	mkdir -p build/Library/Themes/me.kevinrpb.ktheme/ktheme_icons/IconBundles/
-	cp -r src/png/icons/. build/Library/Themes/me.kevinrpb.ktheme/ktheme_icons/IconBundles/
+	mkdir -p build/Library/Themes/ktheme.Themes/IconBundles/
+	cp -r src/png/icons/. build/Library/Themes/ktheme.Themes/IconBundles/
 
 	# ...
 	# mkdir -p build/Library/Themes/me.kevinrpb.kthemes/ktheme_icons/.../
