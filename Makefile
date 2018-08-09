@@ -21,5 +21,6 @@ make:
 	# mkdir -p build/Library/Themes/me.kevinrpb.kthemes/ktheme_icons/.../
 
 .build:
+	rm dist/me.kevinrpb.ktheme.deb
 	dpkg -b build/me.kevinrpb.ktheme
-	mv build/me.kevinrpb.ktheme.deb ./dist/me.kevinrpb.ktheme.deb
+	mv build/me.kevinrpb.ktheme.deb dist/me.kevinrpb.ktheme.deb
