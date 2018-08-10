@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300"
@@ -22,27 +21,6 @@
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
-    <linearGradient
-       id="none-red"
-       inkscape:collect="always">
-      <stop
-         id="stop4708"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:0" />
-      <stop
-         id="stop4710"
-         offset="1"
-         style="stop-color:#960000;stop-opacity:0.60784316" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#none-red"
-       id="linearGradient4556-2"
-       x1="0"
-       y1="217.62498"
-       x2="109.374"
-       y2="326.99899"
-       gradientUnits="userSpaceOnUse" />
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
@@ -116,10 +94,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="97.017995"
-     inkscape:cy="152.38456"
+     inkscape:cx="134.89872"
+     inkscape:cy="140.76781"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4586"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -135,7 +113,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="0,0"
@@ -281,18 +259,17 @@
      inkscape:groupmode="layer"
      id="g4586"
      transform="translate(0,-217.62498)"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#ff3737;fill-opacity:1;stroke:none;stroke-width:0.36458001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,272.31198 v -27.3435 c 0,0 0,-27.3435 27.3435,-27.3435 27.3435,0 27.3435,0 27.3435,0 h 27.3435 c 0,0 27.3435,0 27.3435,27.3435 0,27.3435 0,27.3435 0,27.3435 v 27.3435 c 0,0 0,27.3435 -27.3435,27.3435 -27.3435,0 -27.3435,0 -27.3435,0 H 27.3435 c 0,0 -27.3435,0 -27.3435,-27.3435 0,-27.3435 0,-27.3435 0,-27.3435 z"
-       id="path4584"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4546-42"
-       d="m 0,272.31198 v -27.3435 c 0,0 0,-27.3435 27.343498,-27.3435 27.3435,0 27.3435,0 27.3435,0 h 27.3435 c 0,0 27.343502,0 27.343502,27.3435 0,27.3435 0,27.3435 0,27.3435 v 27.3435 c 0,0 0,27.3435 -27.343502,27.3435 -27.3435,0 -27.3435,0 -27.3435,0 h -27.3435 c 0,0 -27.343498,0 -27.343498,-27.3435 0,-27.3435 0,-27.3435 0,-27.3435 z"
-       style="display:inline;fill:url(#linearGradient4556-2);fill-opacity:1;stroke:none;stroke-width:0.36458001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="display:inline">
+    <rect
+       style="fill:#ff0000;stroke-width:0.36458001"
+       id="rect851"
+       width="109.374"
+       height="109.374"
+       x="0"
+       y="217.62498"
+       inkscape:export-filename="C:\Users\Kevin\Documents\workspace\ktheme\src\icons\com.netflix.Netflix-large.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -18,6 +18,11 @@ make:
 	cp src/icons/Info.plist build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons.theme/Info.plist
 	cp src/icons/*.png build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons.theme/IconBundles/
 
+	# Mask
+	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Mask.theme/IconBundles/
+	cp src/mask/Info.plist build/me.kevinrpb.ktheme/Library/Themes/ktheme\ mask.theme/Info.plist
+	cp src/mask/*.png build/me.kevinrpb.ktheme/Library/Themes/ktheme\ mask.theme/IconBundles/
+
 	# ...
 	# mkdir -p build/me.kevinrpb.ktheme/Library/Themes/me.kevinrpb.kthemes/ktheme_icons/.../
 

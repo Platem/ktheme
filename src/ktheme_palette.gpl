@@ -1,0 +1,11 @@
+GIMP Palette
+Name: ktheme
+#
+  0   0   0  Black
+255 255 255  White
+ 64  64  64  IconBlack
+222 222 222  IconWhite
+ 35 217  85  IconGreen
+255 185  55  IconOrange
+ 55  97 255  IconBlue
+255   0   0  IconRed
