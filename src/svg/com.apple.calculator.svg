@@ -17,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="com.apple.calculator.svg"
-   inkscape:export-filename="C:\Users\Kevin\Documents\workspace\ktheme\src\icons\com.apple.calculator-large.png"
+   inkscape:export-filename="C:\Users\Kevin\Documents\workspace\ktheme\src\icons-flat\com.apple.calculator-large.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -84,8 +84,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="86.127163"
-     inkscape:cy="133.8297"
+     inkscape:cx="110.8759"
+     inkscape:cy="112.6165"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -263,7 +263,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="shadow"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <rect
        style="fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930278;stroke-dashoffset:9.72539997;stroke-opacity:1"
        id="rect869"
