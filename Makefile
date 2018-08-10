@@ -14,19 +14,19 @@ make:
 	cp src/control build/me.kevinrpb.ktheme/DEBIAN/control
 
 	# Icons - flat
-	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Flat.theme/IconBundles/
-	cp src/icons-flat/Info.plist build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Flat.theme/Info.plist
-	cp src/icons-flat/*.png build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Flat.theme/IconBundles/
+	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Flat.theme/IconBundles/
+	cp src/icons-flat/Info.plist build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Flat.theme/Info.plist
+	cp src/icons-flat/*.png build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Flat.theme/IconBundles/
 
 	# Icons - shadow
-	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Shadow.theme/IconBundles/
-	cp src/icons-shdow/Info.plist build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Shadow.theme/Info.plist
-	cp src/icons-shdow/*.png build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Shadow.theme/IconBundles/
+	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Shadow.theme/IconBundles/
+	cp src/icons-shadow/Info.plist build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Shadow.theme/Info.plist
+	cp src/icons-shadow/*.png build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Shadow.theme/IconBundles/
 
 	# Mask
-	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Mask.theme/IconBundles/
-	cp src/mask/Info.plist build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Mask.theme/Info.plist
-	cp src/mask/*.png build/me.kevinrpb.ktheme/Library/Themes/[ktheme]\ Icons\ Mask.theme/IconBundles/
+	mkdir -p build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Mask.theme/IconBundles/
+	cp src/mask/Info.plist build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Mask.theme/Info.plist
+	cp src/mask/*.png build/me.kevinrpb.ktheme/Library/Themes/ktheme\ Icons\ Mask.theme/IconBundles/
 
 	# ...
 	# mkdir -p build/me.kevinrpb.ktheme/Library/Themes/me.kevinrpb.kthemes/ktheme_icons/.../
