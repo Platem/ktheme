@@ -3,9 +3,11 @@
     "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-  <key>PackageName</key>
-  <string>ktheme</string>
   <key>IB-MaskIcons</key>
   <true/>
+  <key>PackageName</key>
+  <string>ktheme</string>
+  <key>ThemeType</key>
+  <string>Icons</string>
   </dict>
 </plist>
