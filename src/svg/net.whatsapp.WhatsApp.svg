@@ -17,11 +17,23 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="net.whatsapp.WhatsApp.svg"
-   inkscape:export-filename="C:\Users\Kevin\Documents\workspace\ktheme\src\icons\net.whatsapp.WhatsApp-large.png"
+   inkscape:export-filename="C:\Users\Kevin\Documents\workspace\ktheme\src\icons-shadow\net.whatsapp.WhatsApp-large.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient898">
+      <stop
+         style="stop-color:#79591d;stop-opacity:0"
+         offset="0"
+         id="stop894" />
+      <stop
+         style="stop-color:#193321;stop-opacity:0.60784316"
+         offset="1"
+         id="stop896" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient988">
@@ -139,6 +151,15 @@
          result="composite2"
          id="feComposite1525" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient898"
+       id="linearGradient900"
+       x1="0"
+       y1="0"
+       x2="109.374"
+       y2="109.37401"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -148,10 +169,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="153.34963"
-     inkscape:cy="152.58482"
+     inkscape:cx="125.13534"
+     inkscape:cy="56.607143"
      inkscape:document-units="px"
-     inkscape:current-layer="g923"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -309,7 +330,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="bg_green"
+     inkscape:label="bg"
      inkscape:groupmode="layer"
      id="g4582"
      transform="translate(0,-217.62498)"
@@ -325,8 +346,22 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="shadow"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient900);fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930278;stroke-dashoffset:9.72539997;stroke-opacity:1"
+       id="rect892"
+       width="109.374"
+       height="109.37401"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="icon">
+     inkscape:label="icon"
+     sodipodi:insensitive="true">
     <g
        id="g982"
        transform="matrix(0.17551826,0,0,0.18291164,27.360186,26.189767)"
@@ -339,9 +374,10 @@
            style="fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-opacity:1">
           <path
              style="fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-width:0.49146092;stroke-opacity:1;filter:url(#filter1270)"
-             d="M 150 75 A 75.000005 74.999993 0 0 0 75 150 A 75.000005 74.999993 0 0 0 89.46875 194.12891 C 88.163396 207.35702 77.11839 213.02252 76.525391 213.22852 C 75.78592 213.74176 75.044922 214.51208 75.044922 215.2832 C 75.044922 216.56757 75.537874 217.59563 76.277344 218.10938 C 94.573342 230.20043 113.23267 222.72984 120.45312 218.91602 A 75.000005 74.999993 0 0 0 150 225 A 75.000005 74.999993 0 0 0 150.64062 224.97656 C 151.48335 225.01616 152.32968 225.04492 153.18359 225.04492 C 153.10619 224.99062 153.04387 224.94862 152.9668 224.89453 A 75.000005 74.999993 0 0 0 225 150 A 75.000005 74.999993 0 0 0 150 75 z M 150 85 A 64.999999 64.999999 0 0 1 215 150 A 64.999999 64.999999 0 0 1 150 215 A 64.999999 64.999999 0 0 1 85 150 A 64.999999 64.999999 0 0 1 150 85 z "
+             d="m 150,75 a 75.000005,74.999993 0 0 0 -75,75 75.000005,74.999993 0 0 0 14.46875,44.12891 c -1.305354,13.22811 -12.35036,18.89361 -12.943359,19.09961 -0.739471,0.51324 -1.480469,1.28356 -1.480469,2.05468 0,1.28437 0.492952,2.31243 1.232422,2.82618 18.295998,12.09105 36.955326,4.62046 44.175776,0.80664 A 75.000005,74.999993 0 0 0 150,225 a 75.000005,74.999993 0 0 0 0.64062,-0.0234 c 0.84273,0.0396 1.68906,0.0684 2.54297,0.0684 -0.0774,-0.0543 -0.13972,-0.0963 -0.21679,-0.15039 A 75.000005,74.999993 0 0 0 225,150 75.000005,74.999993 0 0 0 150,75 Z m 0,10 a 64.999999,64.999999 0 0 1 65,65 64.999999,64.999999 0 0 1 -65,65 64.999999,64.999999 0 0 1 -65,-65 64.999999,64.999999 0 0 1 65,-65 z"
              transform="matrix(2.0771628,0,0,1.9932028,-155.88228,-143.18262)"
-             id="path921" />
+             id="path921"
+             inkscape:connector-curvature="0" />
           <g
              id="g1427"
              transform="matrix(4.5649305,0,0,4.3465536,88.111935,91.349516)">

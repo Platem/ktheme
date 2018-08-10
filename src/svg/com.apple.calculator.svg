@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="300"
@@ -21,6 +22,18 @@
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient875">
+      <stop
+         style="stop-color:#4b4b4b;stop-opacity:0"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#791d1d;stop-opacity:0.60784316"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
@@ -53,6 +66,15 @@
          result="composite2"
          id="feComposite991" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient875"
+       id="linearGradient877"
+       x1="3.5527137e-015"
+       y1="0"
+       x2="109.374"
+       y2="109.374"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,10 +84,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="174.51551"
-     inkscape:cy="126.75863"
+     inkscape:cx="86.127163"
+     inkscape:cy="133.8297"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -236,6 +258,19 @@
        height="109.374"
        x="3.5527137e-015"
        y="217.62498" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="shadow"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930278;stroke-dashoffset:9.72539997;stroke-opacity:1"
+       id="rect869"
+       width="109.374"
+       height="109.374"
+       x="3.5527137e-015"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"

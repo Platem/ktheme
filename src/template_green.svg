@@ -17,7 +17,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="template_blank.svg">
+   sodipodi:docname="template_green.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -28,7 +28,7 @@
          offset="0"
          id="stop848" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.60784316"
+         style="stop-color:#193321;stop-opacity:0.60784316"
          offset="1"
          id="stop850" />
     </linearGradient>
@@ -98,10 +98,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5999999"
-     inkscape:cx="149.38877"
-     inkscape:cy="151.84"
+     inkscape:cx="150.01377"
+     inkscape:cy="142.465"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:pagecheckerboard="true"
@@ -261,9 +261,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930277999999973;stroke-dashoffset:9.72539997;stroke-opacity:1"
+       style="fill:#23d955;fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930278;stroke-dashoffset:9.72539997;stroke-opacity:1"
        id="rect844"
        width="109.374"
        height="109.374"
@@ -273,9 +274,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="shadow">
+     inkscape:label="shadow"
+     sodipodi:insensitive="true">
     <rect
-       style="fill:url(#linearGradient854);fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930277999999884;stroke-dashoffset:9.72539997;stroke-opacity:1"
+       style="fill:url(#linearGradient854);fill-opacity:1;stroke:none;stroke-width:1.96982574;stroke-miterlimit:4;stroke-dasharray:7.87930278, 7.87930278;stroke-dashoffset:9.72539997;stroke-opacity:1"
        id="rect846"
        width="109.374"
        height="109.374"
